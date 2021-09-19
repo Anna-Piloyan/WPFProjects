@@ -1,0 +1,39 @@
+﻿<Window x:Class="Lab_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab_3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="590" Width="700">
+    <Grid Style="{DynamicResource TopGrid}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <StackPanel>
+            <MediaElement Name="mediaScreen" Width="660" Height="350" VerticalAlignment="Top" Margin="20" LoadedBehavior="Manual" MediaOpened="screen_MediaOpened">
+            </MediaElement>
+            <Slider x:Name="slider" Width="660" ValueChanged="slider_ValueChange"/>
+        </StackPanel>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Button Width="70" Height="70" HorizontalAlignment="Left" Margin="20" Click="Button_Click_3" Style="{StaticResource ButtonFolder}" BorderBrush="{DynamicResource ImageFolder}"/>
+            <StackPanel Orientation="Vertical" HorizontalAlignment="Right" Margin="0,40">
+                <Label Content="Theme:" FontSize="15" HorizontalAlignment="Center"/>
+                <ComboBox x:Name="combobox" Width="120" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="1">
+                <Button Width="50" Height="50" Margin="10" Click="Button_Click" Style="{StaticResource ButtonStop}" BorderBrush="{DynamicResource ImageStop}"/>
+                <Button  Width="50" Height="50" Margin="10" Click="Button_Click_1" Style="{StaticResource ButtonPlay}" BorderBrush="{DynamicResource ImagePlay}"/>
+                <Button  Width="50" Height="50" Margin="10" Click="Button_Click_2" Style="{StaticResource ButtonPause}" BorderBrush="{DynamicResource ImagePause}"/>
+            </StackPanel>
+            <Label Grid.Column="2" Content="Volume"  HorizontalAlignment="Center" Margin="30" FontSize="25"/>
+            <Slider Name="volume" Grid.Column="2" Margin="20,70,20,30" ValueChanged="volume_ValueChange" Maximum="1" TickFrequency="0.1"/>
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,45 @@
+E:\ITStep Программирование 16.12\C#\Homework WPF C#\Homework6\Task2\bin\Debug\Task2.exe.config
+E:\ITStep Программирование 16.12\C#\Homework WPF C#\Homework6\Task2\bin\Debug\Task2.exe
+E:\ITStep Программирование 16.12\C#\Homework WPF C#\Homework6\Task2\bin\Debug\Task2.pdb
+E:\ITStep Программирование 16.12\C#\Homework WPF C#\Homework6\Task2\obj\Debug\Task2.csprojAssemblyReference.cache
+E:\ITStep Программирование 16.12\C#\Homework WPF C#\Homework6\Task2\obj\Debug\MainWindow.g.cs
+E:\ITStep Программирование 16.12\C#\Homework WPF C#\Homework6\Task2\obj\Debug\App.g.cs
+E:\ITStep Программирование 16.12\C#\Homework WPF C#\Homework6\Task2\obj\Debug\Task2_MarkupCompile.cache
+E:\ITStep Программирование 16.12\C#\Homework WPF C#\Homework6\Task2\obj\Debug\Task2_MarkupCompile.lref
+E:\ITStep Программирование 16.12\C#\Homework WPF C#\Homework6\Task2\obj\Debug\MainWindow.baml
+E:\ITStep Программирование 16.12\C#\Homework WPF C#\Homework6\Task2\obj\Debug\Task2.g.resources
+E:\ITStep Программирование 16.12\C#\Homework WPF C#\Homework6\Task2\obj\Debug\Task2.Properties.Resources.resources
+E:\ITStep Программирование 16.12\C#\Homework WPF C#\Homework6\Task2\obj\Debug\Task2.csproj.GenerateResource.cache
+E:\ITStep Программирование 16.12\C#\Homework WPF C#\Homework6\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+E:\ITStep Программирование 16.12\C#\Homework WPF C#\Homework6\Task2\obj\Debug\Task2.exe
+E:\ITStep Программирование 16.12\C#\Homework WPF C#\Homework6\Task2\obj\Debug\Task2.pdb
+D:\Анна\ITStep Программирование\C#\Homework WPF C#\Homework6\Task2\bin\Debug\Task2.exe.config
+D:\Анна\ITStep Программирование\C#\Homework WPF C#\Homework6\Task2\bin\Debug\Task2.exe
+D:\Анна\ITStep Программирование\C#\Homework WPF C#\Homework6\Task2\bin\Debug\Task2.pdb
+D:\Анна\ITStep Программирование\C#\Homework WPF C#\Homework6\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+D:\Анна\ITStep Программирование\C#\Homework WPF C#\Homework6\Task2\obj\Debug\MainWindow.g.cs
+D:\Анна\ITStep Программирование\C#\Homework WPF C#\Homework6\Task2\obj\Debug\App.g.cs
+D:\Анна\ITStep Программирование\C#\Homework WPF C#\Homework6\Task2\obj\Debug\Task2_MarkupCompile.cache
+D:\Анна\ITStep Программирование\C#\Homework WPF C#\Homework6\Task2\obj\Debug\Task2_MarkupCompile.lref
+D:\Анна\ITStep Программирование\C#\Homework WPF C#\Homework6\Task2\obj\Debug\MainWindow.baml
+D:\Анна\ITStep Программирование\C#\Homework WPF C#\Homework6\Task2\obj\Debug\Task2.g.resources
+D:\Анна\ITStep Программирование\C#\Homework WPF C#\Homework6\Task2\obj\Debug\Task2.Properties.Resources.resources
+D:\Анна\ITStep Программирование\C#\Homework WPF C#\Homework6\Task2\obj\Debug\Task2.csproj.GenerateResource.cache
+D:\Анна\ITStep Программирование\C#\Homework WPF C#\Homework6\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+D:\Анна\ITStep Программирование\C#\Homework WPF C#\Homework6\Task2\obj\Debug\Task2.exe
+D:\Анна\ITStep Программирование\C#\Homework WPF C#\Homework6\Task2\obj\Debug\Task2.pdb
+C:\Users\User\Desktop\Homework6\Task2\bin\Debug\Task2.exe.config
+C:\Users\User\Desktop\Homework6\Task2\bin\Debug\Task2.exe
+C:\Users\User\Desktop\Homework6\Task2\bin\Debug\Task2.pdb
+C:\Users\User\Desktop\Homework6\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Homework6\Task2\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Homework6\Task2\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Homework6\Task2\obj\Debug\Task2_MarkupCompile.cache
+C:\Users\User\Desktop\Homework6\Task2\obj\Debug\Task2_MarkupCompile.lref
+C:\Users\User\Desktop\Homework6\Task2\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Homework6\Task2\obj\Debug\Task2.g.resources
+C:\Users\User\Desktop\Homework6\Task2\obj\Debug\Task2.Properties.Resources.resources
+C:\Users\User\Desktop\Homework6\Task2\obj\Debug\Task2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Homework6\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Homework6\Task2\obj\Debug\Task2.exe
+C:\Users\User\Desktop\Homework6\Task2\obj\Debug\Task2.pdb

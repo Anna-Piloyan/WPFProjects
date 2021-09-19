@@ -1,0 +1,57 @@
+E:\ITStep Программирование 16.12\C#\Homework WPF C#\Homework6\Lab_3\bin\Debug\Lab_3.exe.config
+E:\ITStep Программирование 16.12\C#\Homework WPF C#\Homework6\Lab_3\bin\Debug\Lab_3.exe
+E:\ITStep Программирование 16.12\C#\Homework WPF C#\Homework6\Lab_3\bin\Debug\Lab_3.pdb
+E:\ITStep Программирование 16.12\C#\Homework WPF C#\Homework6\Lab_3\obj\Debug\Lab_3.csprojAssemblyReference.cache
+E:\ITStep Программирование 16.12\C#\Homework WPF C#\Homework6\Lab_3\obj\Debug\MainWindow.g.cs
+E:\ITStep Программирование 16.12\C#\Homework WPF C#\Homework6\Lab_3\obj\Debug\App.g.cs
+E:\ITStep Программирование 16.12\C#\Homework WPF C#\Homework6\Lab_3\obj\Debug\Lab_3_MarkupCompile.cache
+E:\ITStep Программирование 16.12\C#\Homework WPF C#\Homework6\Lab_3\obj\Debug\Lab_3_MarkupCompile.lref
+E:\ITStep Программирование 16.12\C#\Homework WPF C#\Homework6\Lab_3\obj\Debug\MainWindow.baml
+E:\ITStep Программирование 16.12\C#\Homework WPF C#\Homework6\Lab_3\obj\Debug\Lab_3.g.resources
+E:\ITStep Программирование 16.12\C#\Homework WPF C#\Homework6\Lab_3\obj\Debug\Lab_3.Properties.Resources.resources
+E:\ITStep Программирование 16.12\C#\Homework WPF C#\Homework6\Lab_3\obj\Debug\Lab_3.csproj.GenerateResource.cache
+E:\ITStep Программирование 16.12\C#\Homework WPF C#\Homework6\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+E:\ITStep Программирование 16.12\C#\Homework WPF C#\Homework6\Lab_3\obj\Debug\Lab_3.exe
+E:\ITStep Программирование 16.12\C#\Homework WPF C#\Homework6\Lab_3\obj\Debug\Lab_3.pdb
+E:\ITStep Программирование 16.12\C#\Homework WPF C#\Homework6\Lab_3\obj\Debug\App.baml
+E:\ITStep Программирование 16.12\C#\Homework WPF C#\Homework6\Lab_3\obj\Debug\Skins\Blue.baml
+E:\ITStep Программирование 16.12\C#\Homework WPF C#\Homework6\Lab_3\obj\Debug\Skins\Default.baml
+E:\ITStep Программирование 16.12\C#\Homework WPF C#\Homework6\Lab_3\obj\Debug\Skins\Green.baml
+D:\Анна\ITStep Программирование\C#\Homework WPF C#\Homework6\Lab_3\bin\Debug\Lab_3.exe.config
+D:\Анна\ITStep Программирование\C#\Homework WPF C#\Homework6\Lab_3\bin\Debug\Lab_3.exe
+D:\Анна\ITStep Программирование\C#\Homework WPF C#\Homework6\Lab_3\bin\Debug\Lab_3.pdb
+D:\Анна\ITStep Программирование\C#\Homework WPF C#\Homework6\Lab_3\obj\Debug\Lab_3.csproj.AssemblyReference.cache
+D:\Анна\ITStep Программирование\C#\Homework WPF C#\Homework6\Lab_3\obj\Debug\MainWindow.g.cs
+D:\Анна\ITStep Программирование\C#\Homework WPF C#\Homework6\Lab_3\obj\Debug\App.g.cs
+D:\Анна\ITStep Программирование\C#\Homework WPF C#\Homework6\Lab_3\obj\Debug\Lab_3_MarkupCompile.cache
+D:\Анна\ITStep Программирование\C#\Homework WPF C#\Homework6\Lab_3\obj\Debug\Lab_3_MarkupCompile.lref
+D:\Анна\ITStep Программирование\C#\Homework WPF C#\Homework6\Lab_3\obj\Debug\App.baml
+D:\Анна\ITStep Программирование\C#\Homework WPF C#\Homework6\Lab_3\obj\Debug\MainWindow.baml
+D:\Анна\ITStep Программирование\C#\Homework WPF C#\Homework6\Lab_3\obj\Debug\Skins\Blue.baml
+D:\Анна\ITStep Программирование\C#\Homework WPF C#\Homework6\Lab_3\obj\Debug\Skins\Default.baml
+D:\Анна\ITStep Программирование\C#\Homework WPF C#\Homework6\Lab_3\obj\Debug\Skins\Green.baml
+D:\Анна\ITStep Программирование\C#\Homework WPF C#\Homework6\Lab_3\obj\Debug\Lab_3.g.resources
+D:\Анна\ITStep Программирование\C#\Homework WPF C#\Homework6\Lab_3\obj\Debug\Lab_3.Properties.Resources.resources
+D:\Анна\ITStep Программирование\C#\Homework WPF C#\Homework6\Lab_3\obj\Debug\Lab_3.csproj.GenerateResource.cache
+D:\Анна\ITStep Программирование\C#\Homework WPF C#\Homework6\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+D:\Анна\ITStep Программирование\C#\Homework WPF C#\Homework6\Lab_3\obj\Debug\Lab_3.exe
+D:\Анна\ITStep Программирование\C#\Homework WPF C#\Homework6\Lab_3\obj\Debug\Lab_3.pdb
+C:\Users\User\Desktop\Homework6\Lab_3\bin\Debug\Lab_3.exe.config
+C:\Users\User\Desktop\Homework6\Lab_3\bin\Debug\Lab_3.exe
+C:\Users\User\Desktop\Homework6\Lab_3\bin\Debug\Lab_3.pdb
+C:\Users\User\Desktop\Homework6\Lab_3\obj\Debug\Lab_3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Homework6\Lab_3\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Homework6\Lab_3\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Homework6\Lab_3\obj\Debug\Lab_3_MarkupCompile.cache
+C:\Users\User\Desktop\Homework6\Lab_3\obj\Debug\Lab_3_MarkupCompile.lref
+C:\Users\User\Desktop\Homework6\Lab_3\obj\Debug\App.baml
+C:\Users\User\Desktop\Homework6\Lab_3\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Homework6\Lab_3\obj\Debug\Skins\Blue.baml
+C:\Users\User\Desktop\Homework6\Lab_3\obj\Debug\Skins\Default.baml
+C:\Users\User\Desktop\Homework6\Lab_3\obj\Debug\Skins\Green.baml
+C:\Users\User\Desktop\Homework6\Lab_3\obj\Debug\Lab_3.g.resources
+C:\Users\User\Desktop\Homework6\Lab_3\obj\Debug\Lab_3.Properties.Resources.resources
+C:\Users\User\Desktop\Homework6\Lab_3\obj\Debug\Lab_3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Homework6\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Homework6\Lab_3\obj\Debug\Lab_3.exe
+C:\Users\User\Desktop\Homework6\Lab_3\obj\Debug\Lab_3.pdb
